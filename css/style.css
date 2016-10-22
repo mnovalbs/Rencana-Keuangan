@@ -1,0 +1,63 @@
+body {
+    background: #f9f9f9;
+}
+.ui.container {
+  max-width: 700px !important;
+  margin: 15px auto;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+}
+h2.header{
+  text-align: center;
+}
+.mahasiswa-text {
+    color: #f11;
+}
+.id-text {
+    background: #f11;
+    color: #fff;
+    display: inline-block;
+    padding: 3px;
+    border-radius: 3px;
+    margin-left: 3px;
+}
+.ui.container .dalam {
+    max-width: 500px !important;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px;
+    border: 1px solid #CFD8DC;
+    border-radius: 3px;
+}
+.field label{
+  text-align: left !important;
+}
+.ui.negative.message {
+    background-color: #E53935;
+    box-shadow: 0 0 0 #fff;
+    color: #fff;
+}
+
+.ui.negative.message .header {
+    color: #fff;
+}
+
+.ui.positive.message {
+    background-color: #009688;
+    color: #fff;
+    box-shadow: 0 0 0 !important;
+}
+
+.ui.positive.message .header{
+    color: #fff;
+}
+#errors > div {
+    margin-bottom: 20px;
+    text-align: left;
+}
+#hilang {
+    border-bottom: 2px solid #eee;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
