@@ -55,7 +55,7 @@
   <body>
 
     <div class='ui container align-center'>
-      <h2 class="header">Login <span class="mahasiswa-text">Mahasiswa</span><span class="id-text">.id</span></h2>
+      <h2 class="header">Hitung Rencana Keuangan <span class="mahasiswa-text">Mahasiswa</span><span class="id-text">.id</span></h2>
       <div id='errors'></div>
       <div class='dalam'>
         <div class='ui form'>
